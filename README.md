@@ -9,7 +9,7 @@ A Fan (Optional)
 
 # How To Install?
 To Install, Download The Zip, Then
-Put Your Undertale Files From Steam In (Supports Any Version And Modding.)!
+Put Your Undertale Files From Steam In The Game/ Folder (Supports Any Version And Modding.)!
 Then Run install.sh!
 
 # Performance
