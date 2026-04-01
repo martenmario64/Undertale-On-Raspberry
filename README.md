@@ -10,6 +10,7 @@ A Fan (Optional)
 # How To Install?
 To Install, Download The Zip, Then
 Put Your Undertale Files From Steam In (Supports Any Version And Modding.)!
+Then Run install.sh!
 
 # Performance
 Raspberry Pi 4 (Ok, But Set The Screen Resolution To 720p.)
