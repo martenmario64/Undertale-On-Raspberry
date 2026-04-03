@@ -5,7 +5,7 @@ To Play Undertale On Raspberry Pi Hardware (Raspberry Pi OS).
 # Requirements
 Raspberry Pi (4 or 5)
 
-A Micro SD Card
+At Least 8GB Of Internal Space (Micro SD Card)
 
 A Fan (Optional)
 
